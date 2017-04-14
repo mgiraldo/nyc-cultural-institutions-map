@@ -8,3 +8,5 @@ Based on [311 online facility finder](http://www1.nyc.gov/apps/311utils/facility
 ### [Get the CSV](spreadsheet-libraries.csv)
 
 This list is semi-accurate. Pull requests are welcome!
+
+[![](map-sample.png)](map-libraries.geojson)
