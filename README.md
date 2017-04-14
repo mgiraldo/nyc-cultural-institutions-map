@@ -1,0 +1,5 @@
+# NYC Libraries Map
+
+Map of libraries in NYC (based on [311 online facility finder](http://www1.nyc.gov/apps/311utils/facilityFinderResults.htm?requestType=&serviceName=Libraries&viewType=SHOWALL&type=Library&serviceId=1967#), geocoded with [Mapzen](https://mapzen.com/products/search/) and by hand)
+
+This list is semi-accurate. PRs are welcome!
