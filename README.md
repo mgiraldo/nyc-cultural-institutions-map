@@ -1,4 +1,4 @@
-# NYC Libraries and Museum Maps
+# NYC Libraries and Museums Maps
 
 ## Map of libraries and museums in NYC
 Based on [311 online facility finder](http://www1.nyc.gov/nyc-resources/categories/culture-recreation/arts-culture/index.page), geocoded with [Mapzen](https://mapzen.com/products/search/) and a lot by hand (especially those Queens and “Fifth/Sixth/Seventh... Avenue” addresses).
