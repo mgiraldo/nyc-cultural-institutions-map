@@ -18,3 +18,6 @@ Based on [311 online facility finder](http://www1.nyc.gov/nyc-resources/categori
 These lists are semi-accurate, not exhaustive, and may be outdated. Pull requests are welcome!
 
 [![](map-sample.png)](map-libraries.geojson)
+
+## License
+See [LICENSE](LICENSE).
